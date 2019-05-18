@@ -16,7 +16,7 @@ body{
 .founders{
   padding: 10px;
   border-radius: 20px;
-  background-color: #1D1B1B;
+  background-color: #1D1017;
   color: #EC4D37;
   border: 10px 10px 10px 10px;
 }
@@ -37,6 +37,7 @@ body{
   font-size: 50px;
 }
 .leadtovideo{
+  color: #cccccc;
   background-color:#C5299BFF;
   font-size: 27px;
 }
